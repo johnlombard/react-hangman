@@ -1,9 +1,10 @@
 import React from 'react';
+import "./Opponent.css";
 
 function Opponent(props) {
     return (
-        <div className="Bench">
-            <h2>THIS IS THE Opponent ______</h2>
+        <div className="Opponent">
+            <h2>{`Your Facing: ${props.teams}`}</h2>
             
         </div>
     );

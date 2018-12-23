@@ -1,0 +1,123 @@
+[
+    {
+      "id": 1,
+      "name": "Aresnal",
+      "image": "https://images.gr-assets.com/books/1442726934l/4865.jpg",
+      "clicked": false
+    },
+    {
+      "id": 2,
+      "name": "Bournemouth",
+      "image": "https://images.gr-assets.com/books/1442577801l/159964.jpg",
+      "clicked": false
+    },
+    {
+      "id": 3,
+      "name": "Brighton",
+      "image": "https://images.gr-assets.com/books/1442239711l/472331.jpg",
+      "clicked": false
+    },
+    {
+      "id": 4,
+      "name": "Burnley",
+      "image": "https://images.gr-assets.com/books/1499958451l/5617966.jpg",
+      "clicked": false
+    },
+    {
+      "id": 5,
+      "name": "Cardiff",
+      "image": "https://images.gr-assets.com/books/1440319389l/4981.jpg",
+      "clicked": false
+    },
+    {
+      "id": 6,
+      "name": "Chelsea",
+      "image": "https://images.gr-assets.com/books/1420585954l/23692271.jpg",
+      "clicked": false
+    },
+    {
+      "id": 7,
+      "name": "Palace",
+      "image": "https://images.gr-assets.com/books/1439857546l/25942786.jpg",
+      "clicked": false
+    },
+    {
+      "id": 8,
+      "name": "Everton",
+      "image": "https://images.gr-assets.com/books/1279479806l/746936.jpg",
+      "clicked": false
+    },
+    {
+      "id": 9,
+      "name": "Fulham",
+      "image": "https://images.gr-assets.com/books/1397772877l/10883.jpg",
+      "clicked": false
+    },
+    {
+      "id": 10,
+      "name": "Huddersfield",
+      "image": "https://images.gr-assets.com/books/1476030398l/29868612.jpg",
+      "clicked": false
+    },
+    {
+      "id": 11,
+      "name": "Leicester",
+      "image": "https://images.gr-assets.com/books/1303439193l/81959.jpg",
+      "clicked": false
+    },
+    {
+      "id": 12,
+      "name": "Liverpool",
+      "image": "https://images.gr-assets.com/books/1348336780l/1052.jpg",
+      "clicked": false
+    },
+    {
+      "id": 13,
+      "name": "Manchester City",
+      "image": "https://images.gr-assets.com/books/1418767178l/22318578.jpg",
+      "clicked": false
+    },
+    {
+      "id": 14,
+      "name": "Manchester United",
+      "image": "https://images.gr-assets.com/books/1496699608l/22155.jpg",
+      "clicked": false
+    },
+    {
+      "id": 15,
+      "name": "Newcastle",
+      "image": "https://images.gr-assets.com/books/1442957271l/368593.jpg",
+      "clicked": false
+    },
+    {
+      "id": 16,
+      "name": "Southampton",
+      "image": "https://images.gr-assets.com/books/1496699608l/22155.jpg",
+      "clicked": false
+    },
+    {
+      "id": 17,
+      "name": "Tottenham",
+      "image": "https://images.gr-assets.com/books/1496699608l/22155.jpg",
+      "clicked": false
+    },
+    {
+      "id": 18,
+      "name": "Watford",
+      "image": "https://images.gr-assets.com/books/1496699608l/22155.jpg",
+      "clicked": false
+    },
+    {
+      "id": 19,
+      "name": "West Ham",
+      "image": "https://images.gr-assets.com/books/1496699608l/22155.jpg",
+      "clicked": false
+    },
+    {
+      "id": 20,
+      "name": "Wolverhampton",
+      "image": "https://images.gr-assets.com/books/1496699608l/22155.jpg",
+      "clicked": false
+    }
+    
+  ]

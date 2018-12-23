@@ -1,4 +1,5 @@
 import React from 'react';
+import "./Subs.css";
 
 function Subs(props) {
     return (
